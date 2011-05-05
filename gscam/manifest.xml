@@ -5,7 +5,7 @@ A ROS camera driver that uses gstreamer to connect to devices such as webcams.
   <author>Graylin Trevor Jay, Christopher Crick</author>
   <email>tjay@cs.brown.edu, chriscrick@cs.brown.edu</email>
   <license>BSD</license>
-  <review status="unreviewed" notes=""/>
+  <review status="unreviewed"/>
 
   <rosdep name="libgstreamer0.10-dev"/>
   <rosdep name="libgstreamer-plugins-base0.10-dev"/>
