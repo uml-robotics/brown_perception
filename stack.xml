@@ -1,6 +1,6 @@
 <stack>
   <description brief="brown_perception">Infrastructure for perception</description>
-  <author>Maintained by Chris Crick and Trevor Jay</author>
+  <author>Maintained by Christopher Crick and Trevor Jay</author>
   <license>BSD</license>  
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/brown_perception</url>
